@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Learn Python in 30 minutes
 date: 2022-10-19 12:25:00 +100
 categories: [python, learn-in-30-minutes]
@@ -9,6 +8,8 @@ tags: [python, learning, tutorial, programming-language]
 # Learn Python in 30 minutes
 
 ### Setting up tools
+
+> Text here {: .prompt-info }
 
 To get started we need to install following software:
 - Python itself - allows us to run python programms
@@ -23,14 +24,28 @@ Now let's setup be VS code the left-hand side clip to Explorer right-click to th
   
 ### Writing first hello world application
 
-Let's now write our first hello world application. In python it's very simple, for that we use the print command. 
-Note that in programming languages the commands are called functions. 
-
-So and put text data inside this 
+Let's now write our first hello world application. In python it's very simple, for that we use the "print" command. 
 
 ```python
 print('hello world') 
 ```
+```java
+
+```
+### About the commands
+
+A couple of words about the commands:
+- In python the commands are called **functions**.
+- To execute a function (or a command) you place a pair of **parenthesis** () at the end of the function name.
+- Functions may or may not take input values, if they do you put them inside the parenthesis like this.  
+
+
+
+- in the example above the we put a text data inside the parenthesis of the print function.  
+
+So and put text data inside this 
+
+
 
 ### Creating a variable in python. 
 
