@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Learn Python in 30 minutes
 date: 2022-10-19 12:25:00 +100
 categories: [python, learn-in-30-minutes]
@@ -27,7 +28,9 @@ Note that in programming languages the commands are called functions.
 
 So and put text data inside this 
 
+```python
 print('hello world') 
+```
 
 ### Creating a variable in python. 
 
