@@ -19,12 +19,19 @@ Once downloaded follow the normal installation steps. When installing make sure 
 Now do the same process for vs code You need to go to website or Google VF code and then follow the normal installation process.
 
 Now let's setup be VS code the left-hand side clip to Explorer right-click to the empty space 
+  
+### Writing first hello world application
 
-Writing first hello world application
+Let's now write our first hello world application. In python it's very simple, for that we use the print command. 
+Note that in programming languages the commands are called functions. 
+
+So and put text data inside this 
 
 print('hello world') 
 
-Creating a variable in python. The name should be as descriptive as possible.
+### Creating a variable in python. 
+
+The name should be as descriptive as possible.
 message = 'hello world'
 By convention  variables start with lowercase, if we have multiple words we separate them by underscore my_message
 The variable holds the text data which in python called string and we can use this variable instead of the string we defined above.
