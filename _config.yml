@@ -21,7 +21,7 @@ timezone: Europe/Brussels
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SRE Devops tech                           # the main title
+title: Python in Cloud                           # the main title
 
 tagline: Learn SRE and Devops       # it will display as the sub-title
 
@@ -118,7 +118,9 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 10
+paginate: 20
+
+
 
 # ------------ The following options are not recommended to be modified ------------------
 
