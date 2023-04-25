@@ -145,8 +145,6 @@ print(message.replace('world', 'engineer'))
 
 #### Exercise
 
-
-
 - Create a variable with name "fist_name" and assign your first name to it.
 - Create a variable with name "second_name" and assign your family name to it.
 - Create three more variables: "full_name1", "full_name2", "full_name3" and use the three methods above to create string which would hold your first and last names together.
